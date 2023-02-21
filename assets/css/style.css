@@ -1,9 +1,11 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
@@ -121,6 +123,7 @@ footer h4 {
     font-size: 20px;
 }
 
+/* Class Selectors */
 .float-left {
     float: left;
     margin-right: 25px;
