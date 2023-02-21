@@ -28,13 +28,12 @@ THEN I find a concise, descriptive title
 ## Mock-Up
 
 Click on the following link to display a mock-up of the application:  
-https://github.com/cesaralonsogarcia/module-1-challenge/blob/main/assets/images/01-html-css-git-homework-demo.png  
-https://courses.bootcampspot.com/courses/3150/files/2520802/preview
+https://github.com/cesaralonsogarcia/module-1-challenge/blob/main/assets/images/01-html-css-git-homework-demo.png
 
 ## Deployed Application
 
-Click on the following link to access the deployed application:
-
+Click on the following link to access the deployed application:  
+https://cesaralonsogarcia.github.io/module-1-challenge/
 
 ## Sources
 
