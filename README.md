@@ -1,5 +1,8 @@
 # Module 1 Challenge
-# HTML CSS Git Challenge: Code Refactor
+
+## Description
+
+HTML CSS Git Challenge: Code Refactor
 
 This in an on-the-job ticket, so the starter code was provided. The objective of this challenge is to understand the importance of accessibility in web development. 
 
