@@ -32,6 +32,7 @@ THEN I find a concise, descriptive title
 
 Click on the following link to display a mock-up of the application:  
 https://github.com/cesaralonsogarcia/module-1-challenge/blob/main/assets/images/01-html-css-git-homework-demo.png
+![Mock-up](https://github.com/cesaralonsogarcia/module-1-challenge/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
 ## Deployed Application
 
